@@ -9,9 +9,9 @@ configure = admin/store/settings/volume_pricing
 
 ; Views Handlers
 files[] = views/uc_volume_pricing.views.inc
-; Information added by Drupal.org packaging script on 2015-10-05
-version = "7.x-1.3+2-dev"
+; Information added by Drupal.org packaging script on 2017-05-17
+version = "7.x-1.4"
 core = "7.x"
 project = "uc_volume_pricing"
-datestamp = "1444086240"
+datestamp = "1495033386"
 
